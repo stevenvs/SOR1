@@ -1,4 +1,6 @@
 # WINDOWS
+orientada a PCs de sobremesa y portátiles, tabletas y convertibles, e incluye todas las características orientadas al usuario final convencional para este tipo de equipos.
+En ella se incluyen Cortana, el navegador Microsoft Edge, el soporte del modo tableta y de la tecnología biométrica Windows Hello.
 
 # LINUX(UBUNTU)
 Ubuntu es un sistema operativo como cualquier otro como Windows, Android etc. que permiten la interacción entre usuario y máquina.
