@@ -1,7 +1,5 @@
-# WINDOWS
-Es el sistema operativo más ambicioso e importante de la historia de Microsoft y el más popular en el mercado en la actualidad cuando compramos un ordenador, este trae instalado un sistema operativo Windows.
-
-orientada a PCs de sobremesa y portátiles, tabletas y convertibles, e incluye todas las características orientadas al usuario final convencional para este tipo de equipos.
+# WINDOWS 
+Es el sistema operativo mas popular en el mercado en la actualidad cuando compramos un ordenador la mayoria trae instalado por defecto un sistema operativo Windows y es el mas usado en cualqier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas al usuario final para cada tipo de equipos o uso.
 En ella se incluyen Cortana, el navegador Microsoft Edge, el soporte del modo tableta y de la tecnología biométrica Windows Hello.
 
 # MAC OS  
