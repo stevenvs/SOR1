@@ -13,7 +13,8 @@ Elegante, sencillo, estable. Aunque es exclusivo para los productos de la casa A
 
 
 
-# LINUX(UBUNTU)                                                              
+# LINUX(UBUNTU)                                                              ![images](https://user-images.githubusercontent.com/71392489/94177051-44721500-fe99-11ea-807e-a3919059b1cb.png)
+
 
 Linux en si, es el núcleo o Kernel es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione.
 La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
