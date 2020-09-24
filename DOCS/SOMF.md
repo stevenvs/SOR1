@@ -1,6 +1,16 @@
 # WINDOWS
+Es el sistema operativo más ambicioso e importante de la historia de Microsoft y el más popular en el mercado en la actualidad cuando compramos un ordenador, este trae instalado un sistema operativo Windows.
+
 orientada a PCs de sobremesa y portátiles, tabletas y convertibles, e incluye todas las características orientadas al usuario final convencional para este tipo de equipos.
 En ella se incluyen Cortana, el navegador Microsoft Edge, el soporte del modo tableta y de la tecnología biométrica Windows Hello.
+
+# MAC OS  
+Es el sistema operativo creado por Apple Inc. y viene instalado en todos sus computadores. Todas las versiones recientes son conocidas como MacOS X y los nombres específicos de cada unas de estas son: Mavericks, lanzada en 2013; Mountain Lion, en el 2012; Lion, en el 2011 y Snow Leopard que fue creada en el 2009.
+
+
+Elegante, sencillo, estable. Aunque es exclusivo para los productos de la casa Apple, en los últimos años ha ido ganando presencia entre los consumidores, sobre todo tras el empleo masivo de dispositivos IPod, IPhone e IPad. Es muy útil para aquellos usuarios que no deseen perder tiempo reinsertando aplicaciones o actualizando permisos para su desarrollo. Su principal inconveniente es el alto precio de los productos Apple en el mercado. Eso sí, la calidad está garantizada de antemano.
+
+
 
 # LINUX(UBUNTU)
 Ubuntu es un sistema operativo como cualquier otro como Windows, Android etc. que permiten la interacción entre usuario y máquina.
