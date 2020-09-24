@@ -23,5 +23,7 @@ Ubuntu es un sistema operativo como cualquier otro como Windows, Android etc. qu
 Ubuntu está basado en la distribución de Linux, esta distribución tiene una característica bastante destacada y es que en su escritorio nos permite cambiar la interfaz gráfica del usuario es decir puedes instalar una gran variedad de escritorios o entornos gráficos en un mismo escritorio, lo cual nos permite elegir qué escritorio queremos usar o que escritorio se adapte más al uso del propio usuario. Esto significa que el escritorio va separado de los demás componentes de forma que podremos cambiar de un escritorio a otro.
 
 # ANDROID E IOS 
-Practicamnte todos tenemos a nuestro alcance un smartphone y ademas casi todos los smartphones actuales por no decir todos, utilizan dos sistemas operativos Android e Ios.
-Android es una destribucion basada en Unix porqque utiliza el nucleo de Linux que fue desarrollada por Andy Rubin, Rich Miner, Nick Sears y Chris White, que fundado en 2003.
+![descarga](https://user-images.githubusercontent.com/71392489/94179550-f65f1080-fe9c-11ea-99a1-d3ebb6c15456.png)
+
+Practicamnte todos tenemos a nuestro alcance un smartphone y ademas casi todos los smartphones actuales que nos encontramos en el mercado por no decir todos, utilizan dos sistemas operativos Android e Ios.
+Android es una destribucion basada en Unix porque utiliza el nucleo de Linux y es de codigo abierto, este sistema operativo fue desarrollada por Andy Rubin, Rich Miner, Nick Sears y Chris White, que fue fundado en 2003 y hasta la actualidad se han lanzado 30 versiones
