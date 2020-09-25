@@ -16,8 +16,6 @@ Elegante, sencillo, estable. Aunque es exclusivo para los productos de la casa A
 # LINUX(UBUNTU)                                                              ![images](https://user-images.githubusercontent.com/71392489/94177051-44721500-fe99-11ea-807e-a3919059b1cb.png)
 
 
-Linux en si, es el núcleo o Kernel es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione.
-La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
 Ubuntu es un sistema operativo como cualquier otro como Windows, Android etc. que permiten la interacción entre usuario y máquina.
 
 Ubuntu está basado en la distribución de Linux, esta distribución tiene una característica bastante destacada y es que en su escritorio nos permite cambiar la interfaz gráfica del usuario es decir puedes instalar una gran variedad de escritorios o entornos gráficos en un mismo escritorio, lo cual nos permite elegir qué escritorio queremos usar o que escritorio se adapte más al uso del propio usuario. Esto significa que el escritorio va separado de los demás componentes de forma que podremos cambiar de un escritorio a otro.
@@ -27,3 +25,15 @@ Ubuntu está basado en la distribución de Linux, esta distribución tiene una c
 
 Practicamnte todos tenemos a nuestro alcance un smartphone y ademas casi todos los smartphones actuales que nos encontramos en el mercado por no decir todos, utilizan dos sistemas operativos Android e Ios.
 Android es una destribucion basada en Unix porque utiliza el nucleo de Linux y es de codigo abierto, este sistema operativo fue desarrollada por Andy Rubin, Rich Miner, Nick Sears y Chris White, que fue fundado en 2003 y hasta la actualidad se han lanzado 30 versiones
+
+
+
+
+
+
+
+# DIFERNCIAS ENTRE LINUX Y UNIX 
+
+
+Linux en si, es el núcleo o Kernel es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione.
+La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
