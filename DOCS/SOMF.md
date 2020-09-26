@@ -7,7 +7,7 @@ Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer)
 # APPLE MAC OS  ![images (3)](https://user-images.githubusercontent.com/71392489/94177437-ccf0b580-fe99-11ea-87b0-24f9b09459ba.jpeg)
 
 Es el sistema operativo fundado por Apple Inc. en 1976 Steve Jobs y Stephen Woznia,  viene instalado unicamente en todos sus computadores diseñadas por Apple. Todas las versiones actuales se conocen como Mac, sus diseños son atractivos y fluidos ademas de tener una apariencia elegante, sencillo y estable.
-Aunque solo es exclusivo para los productos de Apple casi siempre ha tenido prefencia entre los consumidores sobre todo en los ultimos con los IPhone e IPad a pesar del alto precio de los productos Apple en el mercado. Eso sí, la calidad está garantizada de antemano.
+Aunque solo es exclusivo para los productos de Apple casi siempre ha tenido prefencia entre los consumidores sobre todo en los ultimos años con los IPhone, IPad y Macbooks, pero a pesar del alto precio de los productos Apple en el mercado su calidad está garantizada.
 
 
 
@@ -21,8 +21,9 @@ Ubuntu está basado en la distribución de Linux, esta distribución tiene una c
 # ANDROID E IOS 
 ![descarga](https://user-images.githubusercontent.com/71392489/94179550-f65f1080-fe9c-11ea-99a1-d3ebb6c15456.png)
 
-Practicamnte todos tenemos a nuestro alcance un smartphone y ademas casi todos los smartphones actuales que nos encontramos en el mercado por no decir todos, utilizan dos sistemas operativos Android e Ios.
-Android es un sistema operativo basado en Unix unicamente para dispositivos moviles, este sistema operativo fue desarrollada por Andy Rubin, Rich Miner, Nick Sears y Chris White, que fue fundado en 2003 y hasta la actualidad se han lanzado 30 versiones
+Practicamente todos tenemos a nuestro alcance un smartphone y ademas casi todos los smartphones actuales que nos encontramos en el mercado por no decir todos, utilizan dos sistemas operativos Android e Ios.
+Android es un sistema operativo basado en Unix unicamente para dispositivos moviles, este sistema operativo fue desarrollada por Andy Rubin, Rich Miner, Nick Sears y Chris White, que fue fundado en 2003 y hasta la actualidad se han lanzado 30 versiones la clave de su crecimiemto se debe a las distintas marcas de smartphones que utilizan Android e imcluso una variedad de precios que se adapta a la disponobilidad del consumidor, de las versiones mas economicas(gama baja) a lo mas caro (gama alta).
+
 
 
 
