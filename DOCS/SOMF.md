@@ -1,12 +1,12 @@
 # WINDOWS
 ![descarga (1)](https://user-images.githubusercontent.com/71392489/94176047-d11bd380-fe97-11ea-9678-23c8ef09c68b.jpeg)
 
-Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer),mas tarde pacto un acuerdo de confidencialidad con MIcrosoft una empresa fundada por Bill Gates y Paul Allen con el objetivo de adquirir un sistema operativo cuyo tuvieron exito en sus diferentes versiones como MS-DOS. En la actualidad es el sistema operativo mas popular en el mercado, cuando compramos un ordenador la mayoria trae instalado por defecto el sistema operativo Windows y es el mas usado en cualqier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas al usuario final para cada tipo de equipos o uso.
+Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer), que mas tarde pacto un acuerdo de confidencialidad con Microsoft, una empresa fundada por Bill Gates y Paul Allen con el objetivo de adquirir un sistema operativo cuyo tuvieron exito en sus diferentes versiones como MS-DOS. En la actualidad es el sistema operativo mas popular en el mercado, cuando compramos un ordenador la mayoria trae instalado por defecto el sistema operativo Windows y es el mas usado en cualquier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas para el usuario final para cada tipo de equipos o uso.
 
 
 # APPLE MAC OS  ![images (3)](https://user-images.githubusercontent.com/71392489/94177437-ccf0b580-fe99-11ea-87b0-24f9b09459ba.jpeg)
 
-Es el sistema operativo fundado por Apple Inc. en 1976 Steve Jobs y Stephen Woznia, viene instalado unicamente en todas las computadores diseñadas por Apple. Todas las versiones actuales se conocen como Mac OS, sus diseños son atractivos y fluidos ademas de tener una apariencia elegante, sencillo y estable.
+Es el sistema operativo fundado por Apple Inc. en 1976 Steve Jobs y Stephen Wozniak, viene instalado unicamente en todas las computadores diseñadas y producidas por Apple. Todas las versiones actuales se conocen como Mac OS, sus diseños son atractivos y fluidos ademas de tener una apariencia elegante, sencillo y estable.
 Aunque solo es exclusivo para los productos de Apple casi siempre ha tenido prefencia entre los consumidores sobre todo en los ultimos años con los IPhone, IPad y sobretodo en las innovaciones con los Macbooks y I Mac, pero a pesar del alto precio de los productos Apple en el mercado su calidad está garantizada.
 
 
@@ -21,11 +21,12 @@ Ubuntu está basado en la distribución de Linux, esta distribución tiene una c
 # ANDROID E IOS 
 ![descarga](https://user-images.githubusercontent.com/71392489/94179550-f65f1080-fe9c-11ea-99a1-d3ebb6c15456.png)
 
-Practicamente todos tenemos a nuestro alcance un smartphone y ademas casi todos los smartphones actuales que nos encontramos en el mercado por no decir todos, utilizan dos sistemas operativos Android e Ios.
+Practicamente todos tenemos a nuestro alcance un smartphone y ademas casi todos los smartphones actuales que nos encontramos en el mercado por no decir todos, utilizan dos sistemas operativos Android e Ios, que 
+
 Android es un sistema operativo basado en Unix unicamente para dispositivos moviles, este sistema operativo fue desarrollada por Andy Rubin, Rich Miner, Nick Sears y Chris White, que fue fundado en 2003 y hasta la actualidad se han lanzado 30 versiones la clave de su crecimiemto se debe a las distintas marcas de smartphones que utilizan Android e imcluso una variedad de precios que se adapta a la disponobilidad del consumidor, de las versiones mas economicas(gama baja) a lo mas caro (gama alta).
 
-Ios es un sistema operativo unicamente desarrollado para iphones, el primer iphone fue lanzado en 2007 con su primera version de IOS.
-El iPhone ha tenido una evolución espectacular en los últimos 8 años, pero en parte se debe también a iOS, que no ha parado de crecer y cambiar hasta la actualidad desde la primera version de no tener funciones como copiar y pegar o adjuntar archivos de correo electrónico y no podía ejecutar aplicaciones de terceros, ha ido recibiendo actualizaciones con infinidad de 
+Ios es un sistema operativo unicamente desarrollado para iphones, el primer iphone fue lanzado en 2007 con su primera version de IOS1. 
+El iPhone ha tenido una evolución en los últimos años, y su sistema operativo IOS fue creciendo y cambiando hasta la actualidad desde la primera version de no tener funciones como copiar y pegar o adjuntar archivos de correo electrónico y no podía ejecutar aplicaciones de terceros, ha ido recibiendo actualizaciones con infinidad de funciones. 
 
 
 
