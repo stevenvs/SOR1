@@ -6,8 +6,8 @@ Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer)
 
 # APPLE MAC OS  ![images (3)](https://user-images.githubusercontent.com/71392489/94177437-ccf0b580-fe99-11ea-87b0-24f9b09459ba.jpeg)
 
-Es el sistema operativo fundado por Apple Inc. en 1976 Steve Jobs y Stephen Woznia,  viene instalado unicamente en todos sus computadores diseñadas por Apple. Todas las versiones actuales se conocen como Mac, sus diseños son atractivos y fluidos ademas de tener una apariencia elegante, sencillo y estable.
-Aunque solo es exclusivo para los productos de Apple casi siempre ha tenido prefencia entre los consumidores sobre todo en los ultimos años con los IPhone, IPad y Macbooks, pero a pesar del alto precio de los productos Apple en el mercado su calidad está garantizada.
+Es el sistema operativo fundado por Apple Inc. en 1976 Steve Jobs y Stephen Woznia, viene instalado unicamente en todas las computadores diseñadas por Apple. Todas las versiones actuales se conocen como Mac OS, sus diseños son atractivos y fluidos ademas de tener una apariencia elegante, sencillo y estable.
+Aunque solo es exclusivo para los productos de Apple casi siempre ha tenido prefencia entre los consumidores sobre todo en los ultimos años con los IPhone, IPad y sobretodo en las innovaciones con los Macbooks y I Mac, pero a pesar del alto precio de los productos Apple en el mercado su calidad está garantizada.
 
 
 
@@ -45,6 +45,6 @@ Las destriniciones mas populares son:
 # DIFERNCIAS ENTRE LINUX Y UNIX 
 
 
-Linux en si, es el núcleo o Kernel que fue basado en Unix, es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione, fue creado como software libre, es decir es gratuito para todo el publico
+Linux en si, es el núcleo o Kernel que fue basado en Unix, fue desarrollado para ordenadores con interfaz grafica, es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione, fue creado como software libre, es decir es gratuito para todo el publico
 
 Unix es el sistema operativo que fue creado unicamente para servidores 
