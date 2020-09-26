@@ -33,6 +33,10 @@ El iPhone ha tenido una evolución en los últimos años, y su sistema operativo
 # GPL
 El software que es distribuida usando la Licencia Pública Generales (GPL) permite que pueda ser utilizado, modificado y extendido o también pudiendo comercializarse, esto da total libertad para el usuario final teniendo los derechos de software libre, también es posible modificar el código fuente de la GPL para uso privado.
 
+
+# SOFTWARE LIBRE Y SOFTWARE COMERCIAL
+
+
 # DISTRIBUCIONES DE LINUX 
 Las distribucines de linux son versiones modificadas del sistema operativo original, que viene a ser el Kernel, y las variedades de distribuciones que existen se debe al codigo abierto, esto quiere decir que cualquiera puede tenerlo y modificarlo. La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
 Las destriniciones mas populares son:
@@ -42,6 +46,9 @@ Las destriniciones mas populares son:
 3. CentOS
 4. Red hat 
 5. Gentoo
+
+# VERSIONES DE SISTEMAS OPERATIVOS
+
 
 # DIFERNCIAS ENTRE LINUX Y UNIX 
 
