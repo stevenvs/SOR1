@@ -1,12 +1,16 @@
-# WINDOWS
+# LOS 5 SISTEMAS OPERATIVOS MAS USADOS
+---
+
+<h2>Windows</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71392489/94176047-d11bd380-fe97-11ea-9678-23c8ef09c68b.jpeg">
+  
 
 Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer), que mas tarde pacto un acuerdo de confidencialidad con Microsoft, una empresa fundada por Bill Gates y Paul Allen con el objetivo de adquirir un sistema operativo cuyo tuvieron exito en sus diferentes versiones como MS-DOS. En la actualidad es el sistema operativo mas popular en el mercado, cuando compramos un ordenador la mayoria trae instalado por defecto el sistema operativo Windows y es el mas usado en cualquier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas para el usuario final para cada tipo de equipos o uso.
 
 
-# APPLE MAC OS
+<h1>APPLE MAC OS</h1>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71392489/94177437-ccf0b580-fe99-11ea-87b0-24f9b09459ba.jpeg">
@@ -44,10 +48,7 @@ El iPhone ha tenido una evolución en los últimos años, y su sistema operativo
 El software que es distribuida usando la Licencia Pública Generales (GPL) permite que pueda ser utilizado, modificado y extendido o también pudiendo comercializarse, esto da total libertad para el usuario final teniendo los derechos de software libre, también es posible modificar el código fuente de la GPL para uso privado.
   
 
-  
-  
-  
-  
+ 
   
 
 # SOFTWARE LIBRE Y SOFTWARE COMERCIAL
@@ -55,6 +56,7 @@ El software que es distribuida usando la Licencia Pública Generales (GPL) permi
 respeta la libertad de los usuarios sobre su producto adquirido y, por tanto, una vez obtenido puede ser usado, copiado, estudiado, modificado y redistribuido libremente. se refiere a cuatro libertades de los usuarios del software: 1 .- la libertad de usar el programa, con cualquier propósito; de estudiar el funcionamiento del programa, y 2. - adaptarlo a las necesidades; 3 .- de distribuir copias, con lo cual se puede ayudar a otros, y de 4.- mejorar el programa y hacer públicas las mejoras, de modo que toda la comunidad se beneficie (para la segunda y última libertad mencionadas, el acceso al código fuente es un requisito previo).
 3. El software libre suele estar disponible gratuitamente, o al precio de coste de la distribución a través de otros medios; sin embargo no es obligatorio que sea así, por lo tanto no hay que asociar software libre a &quot;software gratuito&quot; (denominado usualmente freeware), ya que, conservando su carácter de libre, puede ser distribuido comercialmente
 
+<center>o centrar texto</center>
 
 
 # DISTRIBUCIONES DE LINUX 
