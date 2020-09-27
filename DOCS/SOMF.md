@@ -32,9 +32,9 @@ Ubuntu está basado en la distribución de Linux, esta distribución tiene una c
 
 Practicamente todos tenemos a nuestro alcance un smartphone y ademas casi todos los smartphones actuales que nos encontramos en el mercado por no decir todos, utilizan dos sistemas operativos Android e Ios, que 
 
-Android es un sistema operativo basado en Unix unicamente para dispositivos moviles, este sistema operativo fue desarrollada por Andy Rubin, Rich Miner, Nick Sears y Chris White, que fue fundado en 2003 y hasta la actualidad se han lanzado 30 versiones la clave de su crecimiemto se debe a las distintas marcas de smartphones que utilizan Android e imcluso una variedad de precios que se adapta a la disponobilidad del consumidor, de las versiones mas economicas(gama baja) a lo mas caro (gama alta).
+* __Android__ es un sistema operativo basado en Unix unicamente para dispositivos moviles, este sistema operativo fue desarrollada por Andy Rubin, Rich Miner, Nick Sears y Chris White, que fue fundado en 2003 y hasta la actualidad se han lanzado 30 versiones la clave de su crecimiemto se debe a las distintas marcas de smartphones que utilizan Android e imcluso una variedad de precios que se adapta a la disponobilidad del consumidor, de las versiones mas economicas(gama baja) a lo mas caro (gama alta).
 
-Ios es un sistema operativo unicamente desarrollado para iphones, el primer iphone fue lanzado en 2007 con su primera version de IOS1. 
+* __Ios__ es un sistema operativo unicamente desarrollado para iphones, el primer iphone fue lanzado en 2007 con su primera version de IOS1. 
 El iPhone ha tenido una evolución en los últimos años, y su sistema operativo IOS fue creciendo y cambiando hasta la actualidad desde la primera version de no tener funciones como copiar y pegar o adjuntar archivos de correo electrónico y no podía ejecutar aplicaciones de terceros, ha ido recibiendo actualizaciones con infinidad de funciones. 
 
 
