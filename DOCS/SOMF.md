@@ -36,9 +36,13 @@ El software que es distribuida usando la Licencia Pública Generales (GPL) permi
 
 # SOFTWARE LIBRE Y SOFTWARE COMERCIAL
 
+respeta la libertad de los usuarios sobre su producto adquirido y, por tanto, una vez obtenido puede ser usado, copiado, estudiado, modificado y redistribuido libremente. se refiere a cuatro libertades de los usuarios del software: 1 .- la libertad de usar el programa, con cualquier propósito; de estudiar el funcionamiento del programa, y 2. - adaptarlo a las necesidades; 3 .- de distribuir copias, con lo cual se puede ayudar a otros, y de 4.- mejorar el programa y hacer públicas las mejoras, de modo que toda la comunidad se beneficie (para la segunda y última libertad mencionadas, el acceso al código fuente es un requisito previo).
+3. El software libre suele estar disponible gratuitamente, o al precio de coste de la distribución a través de otros medios; sin embargo no es obligatorio que sea así, por lo tanto no hay que asociar software libre a &quot;software gratuito&quot; (denominado usualmente freeware), ya que, conservando su carácter de libre, puede ser distribuido comercialmente
+
+
 
 # DISTRIBUCIONES DE LINUX 
-Las distribucines de linux son versiones modificadas del sistema operativo original, que viene a ser el Kernel, y las variedades de distribuciones que existen se debe al codigo abierto, esto quiere decir que cualquiera puede tenerlo y modificarlo. La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
+Las distribucines de linux son versiones modificadas del sistema operativo original, que viene a ser el nuecleo o Kernel, y las variedades de distribuciones que existen se debe al codigo abierto, esto quiere decir que cualquiera puede tenerlo y modificarlo. La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
 Las destriniciones mas populares son:
 
 1. Ubuntu
@@ -52,7 +56,8 @@ Las destriniciones mas populares son:
 
 # DIFERNCIAS ENTRE LINUX Y UNIX 
 
+Unix es un sistema operativo que fue desarrollado en los Laboratorios Bell en el año 1969, donde su funcionamiento es a base de comandos, es un sistema portable, multi-tarea y multi-usuario.
+Fue creado principalmente para servidores y ordenadores, ademas no esta al alcance de cualquiera ya que su uso es privado y se necesita conocimiento para su utilizacion, ademas tambien requiere un hardware especifico para su instalacion es completamente distinto y complejo 
 
-Linux en si, es el núcleo o Kernel que fue basado en Unix, fue desarrollado para ordenadores con interfaz grafica, es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione, fue creado como software libre, es decir es gratuito para todo el publico
+Linux en si es el kernel o nucleo de un S.O que fue desarrollado por Linus Torvals basandose en el sistema operativo Unix con una interfaz grafica, es utilizado en variedad de dispositivos (Ordenadores personales, dispositivos moviles, etc.) con sus distintas distribuciones, es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione, fue creado como software libre, por lo cual es gratuito para todo el publico.
 
-Unix es el sistema operativo que fue creado unicamente para servidores 
