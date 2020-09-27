@@ -43,13 +43,15 @@ Practicamente todos tenemos a nuestro alcance un smartphone y ademas casi todos 
 El iPhone ha tenido una evolución en los últimos años, y su sistema operativo IOS fue creciendo y cambiando hasta la actualidad desde la primera version de no tener funciones como copiar y pegar o adjuntar archivos de correo electrónico y no podía ejecutar aplicaciones de terceros, ha ido recibiendo actualizaciones con infinidad de funciones. 
 
 
-# GPL 
+
+
+
+# QUE ES GPL 
 
 El software que es distribuida usando la Licencia Pública Generales (GPL) permite que pueda ser utilizado, modificado y extendido o también pudiendo comercializarse, esto da total libertad para el usuario final teniendo los derechos de software libre, también es posible modificar el código fuente de la GPL para uso privado.
   
 
  
-  
 
 # SOFTWARE LIBRE Y SOFTWARE COMERCIAL
 
