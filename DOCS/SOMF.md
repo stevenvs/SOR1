@@ -10,7 +10,7 @@
 Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer), que mas tarde pacto un acuerdo de confidencialidad con Microsoft, una empresa fundada por Bill Gates y Paul Allen con el objetivo de adquirir un sistema operativo cuyo tuvieron exito en sus diferentes versiones como MS-DOS. En la actualidad es el sistema operativo mas popular en el mercado, cuando compramos un ordenador la mayoria trae instalado por defecto el sistema operativo Windows y es el mas usado en cualquier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas para el usuario final para cada tipo de equipos o uso.
 
 
-<h2>2.APPLE MAC OS</h2>
+<h2>2.Apple MAC OS</h2>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71392489/94177437-ccf0b580-fe99-11ea-87b0-24f9b09459ba.jpeg">
@@ -53,15 +53,14 @@ El software que es distribuida usando la Licencia Pública Generales (GPL) permi
 
 # SOFTWARE LIBRE Y SOFTWARE COMERCIAL
 
-respeta la libertad de los usuarios sobre su producto adquirido y, por tanto, una vez obtenido puede ser usado, copiado, estudiado, modificado y redistribuido libremente. se refiere a cuatro libertades de los usuarios del software: 1 .- la libertad de usar el programa, con cualquier propósito; de estudiar el funcionamiento del programa, y 2. - adaptarlo a las necesidades; 3 .- de distribuir copias, con lo cual se puede ayudar a otros, y de 4.- mejorar el programa y hacer públicas las mejoras, de modo que toda la comunidad se beneficie (para la segunda y última libertad mencionadas, el acceso al código fuente es un requisito previo).
+* respeta la libertad de los usuarios sobre su producto adquirido y, por tanto, una vez obtenido puede ser usado, copiado, estudiado, modificado y redistribuido libremente. se refiere a cuatro libertades de los usuarios del software: 1 .- la libertad de usar el programa, con cualquier propósito; de estudiar el funcionamiento del programa, y 2. - adaptarlo a las necesidades; 3 .- de distribuir copias, con lo cual se puede ayudar a otros, y de 4.- mejorar el programa y hacer públicas las mejoras, de modo que toda la comunidad se beneficie (para la segunda y última libertad mencionadas, el acceso al código fuente es un requisito previo).
 3. El software libre suele estar disponible gratuitamente, o al precio de coste de la distribución a través de otros medios; sin embargo no es obligatorio que sea así, por lo tanto no hay que asociar software libre a &quot;software gratuito&quot; (denominado usualmente freeware), ya que, conservando su carácter de libre, puede ser distribuido comercialmente
 
-<center>o centrar texto</center>
 
 
 # DISTRIBUCIONES DE LINUX 
-Las distribucines de linux son versiones modificadas del sistema operativo original, que viene a ser el nuecleo o Kernel, y las variedades de distribuciones que existen se debe al codigo abierto, esto quiere decir que cualquiera puede tenerlo y modificarlo. La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
-Las destriniciones mas populares son:
+Las distribuciones de linux son versiones modificadas del sistema operativo original, que viene a ser el nuecleo o Kernel, y las variedades de distribuciones que existen se debe al codigo abierto, esto quiere decir que cualquiera puede tenerlo y modificarlo. La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
+Las destribuciones mas populares son:
 
 1. Ubuntu
 2. Debian
@@ -75,7 +74,7 @@ Las destriniciones mas populares son:
 # DIFERNCIAS ENTRE LINUX Y UNIX 
 
 Unix es un sistema operativo que fue desarrollado en los Laboratorios Bell en el año 1969, donde su funcionamiento es a base de comandos, es un sistema portable, multi-tarea y multi-usuario.
-Fue creado principalmente para servidores y ordenadores, ademas no esta al alcance de cualquiera ya que su uso es privado y se necesita conocimiento para su utilizacion, ademas tambien requiere un hardware especifico para su instalacion es completamente distinto y complejo 
+Fue creado principalmente para servidores y ordenadores, ademas no esta al alcance de cualquiera ya que su uso es privado y se necesita conocimiento para su utilizacion, ademas tambien requiere un hardware especifico para su instalacion es completamente distinto y muy complejo.
 
 Linux en si es el kernel o nucleo de un S.O que fue desarrollado por Linus Torvals basandose en el sistema operativo Unix con una interfaz grafica, es utilizado en variedad de dispositivos (Ordenadores personales, dispositivos moviles, etc.) con sus distintas distribuciones, es un parte fundamental del sistema operativo se encarga de administrar los recursos del hardware, controla todas las operaciones para hacer que funcione, fue creado como software libre, por lo cual es gratuito para todo el publico.
 
