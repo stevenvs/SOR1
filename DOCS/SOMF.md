@@ -1,7 +1,7 @@
 # LOS 5 SISTEMAS OPERATIVOS MAS USADOS
 ---
 
-<h2>1.Windows</h2>
+<h2>1. Windows</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71392489/94176047-d11bd380-fe97-11ea-9678-23c8ef09c68b.jpeg">
@@ -10,7 +10,7 @@
 Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer), que mas tarde pacto un acuerdo de confidencialidad con Microsoft, una empresa fundada por Bill Gates y Paul Allen con el objetivo de adquirir un sistema operativo cuyo tuvieron exito en sus diferentes versiones como MS-DOS. En la actualidad es el sistema operativo mas popular en el mercado, cuando compramos un ordenador la mayoria trae instalado por defecto el sistema operativo Windows y es el mas usado en cualquier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas para el usuario final para cada tipo de equipos o uso.
 
 
-<h2>2.Apple MAC OS</h2>
+<h2>2. Apple MAC OS</h2>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71392489/94177437-ccf0b580-fe99-11ea-87b0-24f9b09459ba.jpeg">
@@ -20,7 +20,7 @@ Aunque solo es exclusivo para los productos de Apple casi siempre ha tenido pref
 
 
 
-<h2>3.Linux(Ubuntu)</h2>
+<h2>3. Linux(Ubuntu)</h2>
                                                            
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71392489/94177051-44721500-fe99-11ea-807e-a3919059b1cb.png">
@@ -30,7 +30,7 @@ Ubuntu es un sistema operativo como cualquier otro como Windows, Android etc. qu
 
 Ubuntu está basado en la distribución de Linux, esta distribución tiene una característica bastante destacada y es que en su escritorio nos permite cambiar la interfaz gráfica del usuario es decir puedes instalar una gran variedad de escritorios o entornos gráficos en un mismo escritorio, lo cual nos permite elegir qué escritorio queremos usar o que escritorio se adapte más al uso del propio usuario. Esto significa que el escritorio va separado de los demás componentes de forma que podremos cambiar de un escritorio a otro.
 
-<h2>4/5.Android e Ios</h2> 
+<h2>4/5. Android e Ios</h2> 
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/71392489/94179550-f65f1080-fe9c-11ea-99a1-d3ebb6c15456.png">
