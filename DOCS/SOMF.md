@@ -8,6 +8,7 @@
   
 
 Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer), que mas tarde pacto un acuerdo de confidencialidad con Microsoft, una empresa fundada por Bill Gates y Paul Allen con el objetivo de adquirir un sistema operativo cuyo tuvieron exito en sus diferentes versiones como MS-DOS. 
+
 En la actualidad es el sistema operativo mas popular en el mercado, cuando compramos un ordenador la mayoria trae instalado por defecto el sistema operativo Windows. Es el mas usado en cualquier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas para el usuario final para cada tipo de equipos o uso.
 
 
@@ -17,6 +18,7 @@ En la actualidad es el sistema operativo mas popular en el mercado, cuando compr
  <img src="https://user-images.githubusercontent.com/71392489/94177437-ccf0b580-fe99-11ea-87b0-24f9b09459ba.jpeg">
 
 Es el sistema operativo fundado por Apple Inc. en 1976 Steve Jobs y Stephen Wozniak, viene instalado unicamente en todas las computadoras diseñadas y producidas por Apple. Todas las versiones actuales se conocen como Mac OS, sus diseños son atractivos y fluidos ademas de tener una apariencia elegante, sencillo y estable.
+
 Aunque solo es exclusivo para los productos de Apple, casi siempre ha tenido preferencia entre los consumidores sobre todo en los ultimos años con los IPhone, IPad y principalmente con las innovaciones de los Macbooks y I Macs, y a pesar del alto precio de los productos Apple en el mercado, su calidad está garantizada.
 
 
