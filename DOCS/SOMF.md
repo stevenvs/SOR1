@@ -7,7 +7,8 @@
   <img src="https://user-images.githubusercontent.com/71392489/94176047-d11bd380-fe97-11ea-9678-23c8ef09c68b.jpeg">
   
 
-Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer), que mas tarde pacto un acuerdo de confidencialidad con Microsoft, una empresa fundada por Bill Gates y Paul Allen con el objetivo de adquirir un sistema operativo cuyo tuvieron exito en sus diferentes versiones como MS-DOS. En la actualidad es el sistema operativo mas popular en el mercado, cuando compramos un ordenador la mayoria trae instalado por defecto el sistema operativo Windows. Es el mas usado en cualquier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas para el usuario final para cada tipo de equipos o uso.
+Su origen viene de la empresa IBM  (1980) que diseño IBM PC (personal computer), que mas tarde pacto un acuerdo de confidencialidad con Microsoft, una empresa fundada por Bill Gates y Paul Allen con el objetivo de adquirir un sistema operativo cuyo tuvieron exito en sus diferentes versiones como MS-DOS. 
+En la actualidad es el sistema operativo mas popular en el mercado, cuando compramos un ordenador la mayoria trae instalado por defecto el sistema operativo Windows. Es el mas usado en cualquier ambito ya sea laboral, educativo o para uso personal y para ello Windows 10 cuenta con varias versiones como Windows 10 home, Windows 10 Mobile, Windows 10 Pro, etc.  Todas esta versiones estan orientados a PCs de sobremesa y portátiles, ademas incluye todas las características especificas para el usuario final para cada tipo de equipos o uso.
 
 
 <h2>2. Apple MAC OS</h2>
@@ -26,6 +27,7 @@ Aunque solo es exclusivo para los productos de Apple, casi siempre ha tenido pre
  <img src="https://user-images.githubusercontent.com/71392489/94177051-44721500-fe99-11ea-807e-a3919059b1cb.png">
 
 GNU/Linux es el sistema operativo completo cuando utilizamos cualquier distribución de Linux, incluye el núcleo más los controladores o softwares como aplicaciones y librerías. Linux es usado ampliamente en Educacion y en el Trabajo, y tambien estan disponibles gratuitamente para aquellos que buscan un Sistema Operativo para instalar en sus ordenadores viejos o portatiles y los que buscan probar experiencias nuevas.
+
 Ubuntu es un sistema operativo como cualquier otro como Windows, Android etc. que permiten la interacción entre usuario y máquina, es la distribucion mas utilizada de Linux, esta distribución tiene una característica bastante destacada y es que en su escritorio nos permite cambiar la interfaz gráfica del usuario es decir puedes instalar una gran variedad de escritorios o entornos gráficos en un mismo escritorio, lo cual nos permite elegir qué escritorio queremos usar o que escritorio se adapte más al uso del propio usuario.
 
 <h2>4/5. Android e Ios</h2> 
@@ -60,7 +62,8 @@ El software que es distribuida usando la Licencia Pública Generales (GPL) permi
 
 
 # DISTRIBUCIONES DE LINUX 
-Las distribuciones de linux son versiones modificadas del sistema operativo original, que viene a ser el nuecleo o Kernel, y las variedades de distribuciones que existen se debe al código abierto, esto quiere decir que cualquiera puede tenerlo y modificarlo. La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
+Las distribuciones de linux son versiones modificadas del sistema operativo original, que viene a ser el nuecleo o Kernel, y las variedades de distribuciones que existen se debe al código abierto, esto quiere decir que cualquiera puede tenerlo y modificarlo. 
+La amplia variedad de versiones de linux que existen permite elegir a los usuarios cual utilizar o cuál se adapta mejor a cada usuario, como el tipo de ordenador que utilizamos si es de alto o de bajo rendimiento, por la personalización de nuestro ordenador, o si es para el trabajo, la educación o gusto personal. 
 Las destribuciones mas populares son:
 
 1. Ubuntu
