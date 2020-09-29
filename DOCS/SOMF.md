@@ -55,8 +55,8 @@ El software que es distribuida usando la Licencia Pública Generales (GPL) permi
 
 # SOFTWARE LIBRE Y SOFTWARE COMERCIAL
 
-* respeta la libertad de los usuarios sobre su producto adquirido y, por tanto, una vez obtenido puede ser usado, copiado, estudiado, modificado y redistribuido libremente. se refiere a cuatro libertades de los usuarios del software: 1 .- la libertad de usar el programa, con cualquier propósito; de estudiar el funcionamiento del programa, y 2. - adaptarlo a las necesidades; 3 .- de distribuir copias, con lo cual se puede ayudar a otros, y de 4.- mejorar el programa y hacer públicas las mejoras, de modo que toda la comunidad se beneficie (para la segunda y última libertad mencionadas, el acceso al código fuente es un requisito previo).
-3. El software libre suele estar disponible gratuitamente, o al precio de coste de la distribución a través de otros medios; sin embargo no es obligatorio que sea así, por lo tanto no hay que asociar software libre a &quot;software gratuito&quot; (denominado usualmente freeware), ya que, conservando su carácter de libre, puede ser distribuido comercialmente
+* El software libre es aquel programa que permite tener total libertad hacia el usuario, esto quiere decir que el software puede ser utilizado para cualquier funalidad como copiarlo y distribuir copias del mismo, modificar el programa con libre acceso a su codigo fuente, y tambien puede ser redistribuido tanto si es para comecializar o no libremente por cualquier usuario. 
+El software comercial es todo lo opuesto del sofware libre, este tipo de programas 
 
 
 
